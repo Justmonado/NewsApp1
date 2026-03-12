@@ -1,4 +1,4 @@
-package com.pajasoft.newsapp.models
+package com.pajasoft.newsapp.components
 
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding

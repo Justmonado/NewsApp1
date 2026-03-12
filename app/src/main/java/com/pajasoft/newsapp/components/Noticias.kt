@@ -1,4 +1,4 @@
-package com.pajasoft.newsapp.models
+package com.pajasoft.newsapp.components
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Box
