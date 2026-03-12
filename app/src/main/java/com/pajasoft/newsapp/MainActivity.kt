@@ -17,6 +17,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.pajasoft.newsapp.models.Buscador
+import com.pajasoft.newsapp.models.Noticias
 import com.pajasoft.newsapp.ui.theme.NewsAppTheme
 
 class MainActivity : ComponentActivity() {
@@ -44,6 +45,7 @@ fun NewsApp(innerPadding: PaddingValues){
             .padding(horizontal = 15.dp)
     ) {
         Buscador()
+        Noticias()
     }
 }
 
